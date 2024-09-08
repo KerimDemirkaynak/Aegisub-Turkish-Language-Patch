@@ -1,6 +1,6 @@
 # Aegisub için Türkçe Yama
 
-Bu proje, Aegisub için Türkçe yama sağlamaktadır. Şu anda çevirinin tamamlanma oranı %30'dur.
+Bu proje, Aegisub için Türkçe yama sağlamaktadır. Şu anda çevirinin tamamlanma oranı %30'dur. Çeviri bana ait değildir.
 
 ## Kurulum
 
