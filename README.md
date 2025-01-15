@@ -1,5 +1,5 @@
 # Aegisub için Türkçe Yama
-[![License: MIT License](https://img.shields.io/badge/Lisans-MIT-blue.svg?color=088395&logoColor=blue&style=flat-square)]([https://opensource.org/license/mit/](https://opensource.org/license/mit))
+[![License: MIT License](https://img.shields.io/badge/Lisans-MIT-blue.svg?color=088395&logoColor=blue&style=flat-square)](https://opensource.org/license/mit/)
 [![GitHub Release](https://img.shields.io/github/v/release/KerimDemirkaynak/Aegisub-Turkish-Language-Patch?style=flat-square&color=8DDFCB&label=Sürüm)](https://github.com/KerimDemirkaynak/Aegisub-Turkish-Language-Patch/releases)
 [![Website](https://img.shields.io/badge/Website-kerimdemirkaynak.github.io/projeler/aegisub-00215E?style=flat-square)](https://kerimdemirkaynak.github.io/projeler/aegisub)
 
